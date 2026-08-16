@@ -1,0 +1,9 @@
+scikit-learn>=1.3
+langgraph>=0.2
+pytest>=7.4
+
+# Optional — enable LLM mode (real embeddings + generation) instead of the
+# offline TF-IDF demo mode. Not required to run the pipeline or tests.
+# openai>=1.30
+# anthropic>=0.34
+# faiss-cpu>=1.8
